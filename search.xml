@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[demo article]]></title>
+      <url>/2020/05/08/demo-article/</url>
+      <content type="html"><![CDATA[<h4 id="my-md-learning"><a href="#my-md-learning" class="headerlink" title="my md learning"></a>my md learning</h4><p>this is a demo article for markdown <em>writings</em>.</p>
+<p>just a try for the .cf site;  </p>
+<hr>
+<p>insert an image for href link <em>welcome</em></p>
+<figure class="image-box">
+                <img src="https://dss0.bdstatic.com/6Ox1bjeh1BF3odCf/it/u=210828952,3757297046&fm=173&app=49&f=JPEG?w=312&h=208&s=3A2869CA28412355067D4D1E030010D2" alt="alt 阿丽塔" title="" class="">
+                <p>alt 阿丽塔</p>
+            </figure>
+
+<img src="https://dss0.bdstatic.com/6Ox1bjeh1BF3odCf/it/u=210828952,3757297046&fm=173&app=49&f=JPEG?w=312&h=208&s=3A2869CA28412355067D4D1E030010D2" width="10%" align=left>
+
+<p><del><a href="https://baidu.com" target="_blank" rel="noopener">https://baidu.com</a></del></p>
+<p><u><a href="http://www.lofter.com" target="_blank" rel="noopener">Lofter博客</a></u></p>
+<p>[^sss]天朗气清·海纳百川</p>
+<ul>
+<li>One </li>
+</ul>
+<ul>
+<li>Two  </li>
+</ul>
+<ul>
+<li>Three<ol>
+<li>haha<ul>
+<li>panda</li>
+</ul>
+</li>
+<li>hoho<ul>
+<li>monkey</li>
+</ul>
+</li>
+<li>wow<ul>
+<li>snake</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<blockquote>
+<p>区块引用</p>
+<blockquote>
+<p>好吧</p>
+</blockquote>
+</blockquote>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">NSLog(@&quot;Hello World&quot;);</span><br><span class="line">&#x2F;&#x2F;代码块</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="center">坐标</th>
+<th align="center">x</th>
+<th align="center">y</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">m</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr>
+<td align="center">n</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+</tbody></table>
+]]></content>
+      
+        <categories>
+            
+            <category> none </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> demo </tag>
+            
+            <tag> mine </tag>
+            
+            <tag> work </tag>
+            
+            <tag> daily </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2020/05/06/hello-world/</url>
+      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+</search>
